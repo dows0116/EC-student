@@ -62,6 +62,10 @@ MCU:  STM32F411RE, Nucleo-64
 
 _// Add your notes here_
 
+```
+install
+```
+
 
 
 ## Resource
